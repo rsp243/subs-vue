@@ -1,4 +1,4 @@
-# ubereat
+# SubSchool
 
 > A Vue.js project
 
